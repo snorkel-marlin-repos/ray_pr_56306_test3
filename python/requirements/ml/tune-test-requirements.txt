@@ -5,7 +5,7 @@ gpy==1.13.1
 jupyterlab==3.6.1
 matplotlib!=3.4.3
 
-pytest-remotedata==0.3.2
+pytest-remotedata==0.4.3
 pytorch-lightning==1.8.6
 fairscale==0.4.6
 shortuuid==1.0.1
